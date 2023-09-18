@@ -44,7 +44,7 @@ export default function Home() {
     
     <section>
       <Head>
-        <title>CRUD Ancona</title>
+        <title>CRUD App</title>
         <meta name="Lorem" content="Lorem" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
