@@ -23,7 +23,7 @@ export default function TableUI() {
   const { isLoading, isError, data, error } = useQuery('records', getRecords)
 
   if (isLoading) return <div>Loading...</div>
-  if (isError) return <div>Ocurrio un error</div>
+  if (isError) return <div>There is an error</div>
 
   console.log(data)
 
